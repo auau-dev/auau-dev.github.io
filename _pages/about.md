@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Jin Zhang
 
-**Email:** 2662918831@qq.com
+**Email:** zjauau@mails.ccnu.edu.cn(or 2662918831@qq.com)
 
 我是华中师范大学计算机学院硕士研究生，研究方向为自然语言处理、事件推理等。
 
